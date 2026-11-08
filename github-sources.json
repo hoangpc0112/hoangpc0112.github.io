@@ -1,0 +1,282 @@
+{
+  "fetched_at": "2026-11-08",
+  "profile": {
+    "name": "Phạm Chính Hoàng",
+    "login": "hoangpc0112",
+    "bio": "TLE enjoyer",
+    "location": "Hà Nội, Việt Nam",
+    "public_repos": 22,
+    "created_at": "2023-04-25T15:49:30Z",
+    "html_url": "https://github.com/hoangpc0112"
+  },
+  "repositories": [
+    {
+      "name": "ble-mesh-chat",
+      "description": null,
+      "html_url": "https://github.com/hoangpc0112/ble-mesh-chat",
+      "homepage": null,
+      "language": "Java",
+      "topics": [],
+      "fork": false,
+      "stargazers_count": 0,
+      "updated_at": "2026-11-04T07:57:32Z"
+    },
+    {
+      "name": "bookmark-manager",
+      "description": "Bookmark manager extension for web browser.",
+      "html_url": "https://github.com/hoangpc0112/bookmark-manager",
+      "homepage": null,
+      "language": "JavaScript",
+      "topics": [],
+      "fork": false,
+      "stargazers_count": 0,
+      "updated_at": "2026-10-31T11:09:53Z"
+    },
+    {
+      "name": "packet-analyzer",
+      "description": null,
+      "html_url": "https://github.com/hoangpc0112/packet-analyzer",
+      "homepage": "",
+      "language": "Python",
+      "topics": [],
+      "fork": false,
+      "stargazers_count": 2,
+      "updated_at": "2026-06-03T11:40:57Z"
+    },
+    {
+      "name": "lwst",
+      "description": null,
+      "html_url": "https://github.com/hoangpc0112/lwst",
+      "homepage": "https://lwst.vercel.app",
+      "language": "TypeScript",
+      "topics": [],
+      "fork": false,
+      "stargazers_count": 0,
+      "updated_at": "2026-06-01T11:58:23Z"
+    },
+    {
+      "name": "labs",
+      "description": null,
+      "html_url": "https://github.com/hoangpc0112/labs",
+      "homepage": null,
+      "language": null,
+      "topics": [],
+      "fork": false,
+      "stargazers_count": 0,
+      "updated_at": "2026-06-01T03:45:11Z"
+    },
+    {
+      "name": "pet-manager",
+      "description": null,
+      "html_url": "https://github.com/hoangpc0112/pet-manager",
+      "homepage": "",
+      "language": "JavaScript",
+      "topics": [],
+      "fork": false,
+      "stargazers_count": 0,
+      "updated_at": "2026-04-08T00:02:39Z"
+    },
+    {
+      "name": "dlib-ptit-clone",
+      "description": "dlib.ptit.edu.vn clone",
+      "html_url": "https://github.com/hoangpc0112/dlib-ptit-clone",
+      "homepage": "",
+      "language": "Java",
+      "topics": [],
+      "fork": false,
+      "stargazers_count": 0,
+      "updated_at": "2026-03-25T00:45:10Z"
+    },
+    {
+      "name": "photo-sharing",
+      "description": null,
+      "html_url": "https://github.com/hoangpc0112/photo-sharing",
+      "homepage": null,
+      "language": "JavaScript",
+      "topics": [],
+      "fork": false,
+      "stargazers_count": 0,
+      "updated_at": "2025-12-21T10:21:36Z"
+    },
+    {
+      "name": "pdf-quiz-maker",
+      "description": "AI generated",
+      "html_url": "https://github.com/hoangpc0112/pdf-quiz-maker",
+      "homepage": null,
+      "language": "TypeScript",
+      "topics": [],
+      "fork": false,
+      "stargazers_count": 0,
+      "updated_at": "2025-12-13T17:20:55Z"
+    },
+    {
+      "name": "photo-sharing-server-forked-",
+      "description": "Created with CodeSandbox",
+      "html_url": "https://github.com/hoangpc0112/photo-sharing-server-forked-",
+      "homepage": "https://codesandbox.io/p/github/hoangpc0112/photo-sharing-server (forked)",
+      "language": null,
+      "topics": [],
+      "fork": false,
+      "stargazers_count": 0,
+      "updated_at": "2025-11-22T06:42:35Z"
+    },
+    {
+      "name": "mern-blog",
+      "description": null,
+      "html_url": "https://github.com/hoangpc0112/mern-blog",
+      "homepage": "",
+      "language": "JavaScript",
+      "topics": [],
+      "fork": false,
+      "stargazers_count": 0,
+      "updated_at": "2025-11-18T20:14:06Z"
+    },
+    {
+      "name": "th2",
+      "description": null,
+      "html_url": "https://github.com/hoangpc0112/th2",
+      "homepage": null,
+      "language": "JavaScript",
+      "topics": [],
+      "fork": false,
+      "stargazers_count": 0,
+      "updated_at": "2025-11-17T02:32:31Z"
+    },
+    {
+      "name": "th2-backend",
+      "description": null,
+      "html_url": "https://github.com/hoangpc0112/th2-backend",
+      "homepage": null,
+      "language": "JavaScript",
+      "topics": [],
+      "fork": false,
+      "stargazers_count": 0,
+      "updated_at": "2025-11-17T02:29:30Z"
+    },
+    {
+      "name": "ptmd",
+      "description": null,
+      "html_url": "https://github.com/hoangpc0112/ptmd",
+      "homepage": null,
+      "language": "C",
+      "topics": [],
+      "fork": false,
+      "stargazers_count": 0,
+      "updated_at": "2025-10-31T04:10:37Z"
+    },
+    {
+      "name": "mern",
+      "description": null,
+      "html_url": "https://github.com/hoangpc0112/mern",
+      "homepage": null,
+      "language": "JavaScript",
+      "topics": [],
+      "fork": false,
+      "stargazers_count": 0,
+      "updated_at": "2025-10-28T17:09:19Z"
+    },
+    {
+      "name": "movie-ticket-booking",
+      "description": "Movie Ticket Booking System using Spring Boot, Thymeleaf and MySQL",
+      "html_url": "https://github.com/hoangpc0112/movie-ticket-booking",
+      "homepage": "",
+      "language": "HTML",
+      "topics": [
+        "movie-ticket-booking-system",
+        "mysql",
+        "spring-boot",
+        "thymeleaf"
+      ],
+      "fork": false,
+      "stargazers_count": 3,
+      "updated_at": "2025-10-15T08:22:34Z"
+    },
+    {
+      "name": "library-management",
+      "description": "Library Management System with book recommendations using FastAPI, React and PostgreSQL",
+      "html_url": "https://github.com/hoangpc0112/library-management",
+      "homepage": "",
+      "language": "JavaScript",
+      "topics": [
+        "fastapi",
+        "library-management-system",
+        "postgresql",
+        "react"
+      ],
+      "fork": false,
+      "stargazers_count": 5,
+      "updated_at": "2025-09-30T12:26:11Z"
+    },
+    {
+      "name": "dotfiles",
+      "description": "Arch(-based) Hyprland dotfiles",
+      "html_url": "https://github.com/hoangpc0112/dotfiles",
+      "homepage": "",
+      "language": "Shell",
+      "topics": [
+        "arch-linux",
+        "dotfiles",
+        "hyprland",
+        "hyprland-rice"
+      ],
+      "fork": false,
+      "stargazers_count": 4,
+      "updated_at": "2025-09-22T19:27:06Z"
+    },
+    {
+      "name": "warehouse-management",
+      "description": "Warehouse Management System using Spring Boot, Thymeleaf and PostgreSQL",
+      "html_url": "https://github.com/hoangpc0112/warehouse-management",
+      "homepage": "",
+      "language": "JavaScript",
+      "topics": [
+        "postgresql",
+        "spring-boot",
+        "thymeleaf",
+        "warehouse-management-system"
+      ],
+      "fork": false,
+      "stargazers_count": 2,
+      "updated_at": "2025-09-02T04:12:32Z"
+    },
+    {
+      "name": "dsa-ptit",
+      "description": "Solutions for DSA exercises on PTIT Code website",
+      "html_url": "https://github.com/hoangpc0112/dsa-ptit",
+      "homepage": "",
+      "language": "C++",
+      "topics": [
+        "codeptit",
+        "solutions"
+      ],
+      "fork": false,
+      "stargazers_count": 2,
+      "updated_at": "2025-09-02T04:10:49Z"
+    },
+    {
+      "name": "cpp-ptit",
+      "description": "Solutions for C++ exercises on PTIT Code website",
+      "html_url": "https://github.com/hoangpc0112/cpp-ptit",
+      "homepage": "",
+      "language": "C++",
+      "topics": [
+        "codeptit",
+        "solutions"
+      ],
+      "fork": false,
+      "stargazers_count": 1,
+      "updated_at": "2025-09-02T04:10:23Z"
+    },
+    {
+      "name": "hoangpc0112",
+      "description": "My github profile README.md",
+      "html_url": "https://github.com/hoangpc0112/hoangpc0112",
+      "homepage": "",
+      "language": null,
+      "topics": [],
+      "fork": false,
+      "stargazers_count": 2,
+      "updated_at": "2025-08-08T09:34:22Z"
+    }
+  ]
+}

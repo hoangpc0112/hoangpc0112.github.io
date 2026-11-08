@@ -1,0 +1,7 @@
+node_modules/
+.taste-skill/
+shots/
+.env
+.env.*
+*.tar
+*.tar.gz
