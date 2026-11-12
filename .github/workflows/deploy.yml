@@ -33,6 +33,9 @@ jobs:
           node --check dist/locale.mjs
           node --check dist/navigation.mjs
           node test-core.mjs
+          node test-interactions.mjs
+      - name: Check content and assets
+        run: python3 test-content.py
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
         with:

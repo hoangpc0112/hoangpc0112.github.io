@@ -6,6 +6,8 @@ Personal portfolio for Phạm Chính Hoàng, a Cybersecurity student at PTIT.
 
 Static HTML, CSS and JavaScript with Vietnamese/English switching, six selected GitHub projects, project filters, a simulated terminal and GSAP scroll animations. The ASCII sphere rotates automatically without pointer interaction. Fonts and animation libraries are served locally; images below the first screen load lazily.
 
+If an animation library fails to load, the SVG hero remains visible and navigation, language switching, project filters and the terminal still work.
+
 ## Preview
 
 ```powershell
@@ -30,7 +32,7 @@ pnpm vendor
 
 ## Deploy
 
-Push to `main`. GitHub Actions checks the JavaScript and publishes `dist/` to GitHub Pages. The workflow can also be started manually from the Actions tab.
+Push to `main`. GitHub Actions checks the JavaScript, interaction fallbacks, content and asset links, then publishes `dist/` to GitHub Pages. The workflow can also be started manually from the Actions tab.
 
 ## Edit
 

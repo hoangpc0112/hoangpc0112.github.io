@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "vendor": "node scripts/vendor.mjs",
-    "test": "node test-core.mjs"
+    "test": "node test-core.mjs && node test-interactions.mjs"
   },
   "dependencies": {
     "gsap": "3.15.1"
